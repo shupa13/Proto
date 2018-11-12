@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "604694574576",
+    "firebase_url": "https://danceproto-34b27.firebaseio.com",
+    "project_id": "danceproto-34b27",
+    "storage_bucket": "danceproto-34b27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604694574576:android:31d286344ff5a1d3",
+        "android_client_info": {
+          "package_name": "com.seoho.proto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "604694574576-sn0k00bj1nkeshcorndqmdm4bev1u15m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.seoho.proto",
+            "certificate_hash": "08f50b39ed157a6e84bd9f69b1d7e8d8e0a4a045"
+          }
+        },
+        {
+          "client_id": "604694574576-krlt211lsel5ukln1f9jpfedjfd477cn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbntE_ET2YP-HVLJO0iv07pfIOI15BOpY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "604694574576-krlt211lsel5ukln1f9jpfedjfd477cn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

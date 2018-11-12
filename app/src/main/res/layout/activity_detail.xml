@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/colorBack"
+    tools:context=".DetailActivity"
+    >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="댓글"
+        android:textColor="#ffffff"
+        android:textStyle="bold"
+        android:textSize="20dp"
+        android:gravity="center"
+        android:padding="8dp"
+        android:background="#000000"
+        />
+
+    <TextView
+        android:id="@+id/tv_reply"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="내용 들어갈 자리"
+        android:padding="10dp"
+        android:background="#ffffff"
+        android:layout_marginTop="4dp"
+        />
+
+    <include layout="@layout/contents_reply"/>
+
+</LinearLayout>
